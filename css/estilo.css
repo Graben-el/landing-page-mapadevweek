@@ -89,6 +89,7 @@ html {
 
 .cabecalho .navegacao .menu .item {
     margin-left: 20px;
+    transition: 0.3s ease-in;
 }
 
 .cabecalho .navegacao .menu .item:hover {
